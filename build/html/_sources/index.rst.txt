@@ -23,7 +23,7 @@ Vision
 Project Focus
 --------------
 
-Currently we are focus only 4 scope categories such as:
+Currently, we are focusing on only four scope categories, such as:
 
 * IoT solution
 * AI and Machine learning solution
